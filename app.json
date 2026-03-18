@@ -2,8 +2,8 @@
     "name": "erfan Web Pair",
     "description": "Web Session Generator",
     "logo": "https://files.catbox.moe/pf9a6s.jpg",
-    "repository": "https://github.com/saasipro/Erfan-pair",
-    "keywords": ["ERFAN "],
+    "repository": "https://github.com/ADEEL-XMD/ADEELXMDPAIR",
+    "keywords": ["adeel "],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
